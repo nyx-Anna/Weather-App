@@ -17,26 +17,26 @@ A modern and responsive Weather Application built using React and OpenWeather AP
  >OpenWeather API
 
 # How It Works
- >Enter a city name in the search bar
- >Click *Search* or press *Enter*
- >App fetches weather data using API
- >Displays temperature, condition, humidity, and wind speed
+ * Enter a city name in the search bar
+ * Click *Search* or press *Enter*
+ * App fetches weather data using API
+ * Displays temperature, condition, humidity, and wind speed
 
 # Live Demo
  https://github.com/nyx-Anna/Weather-App-React.git
 
 # Learnings
- >React state management using `useState`
- >API integration using `fetch`
- >Handling async operations
- >Error and loading state management
- >Building responsive UI
+ * React state management using `useState`
+ * API integration using `fetch`
+ * Handling async operations
+ * Error and loading state management
+ * Building responsive UI
 
 # Future Improvements
- >Detect user location automatically
- >Dark/Light mode toggle
- >5-day weather forecast
- >More animations and transitions
+ * Detect user location automatically
+ * Dark/Light mode toggle
+ * 5-day weather forecast
+ * More animations and transitions
 
 # Made With 💜
- >Built with curiosity, and consistency.
+ * Built with curiosity, and consistency.
