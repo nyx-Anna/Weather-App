@@ -2,19 +2,19 @@
 A modern and responsive Weather Application built using React and OpenWeather API. It allows users to search for any city and view real-time weather details.
 
 # Features
- > Search weather by city name
- > Real-time temperature display
- >Weather condition with icons
- >Humidity and  Wind speed
- >Loading state handling
- >Error handling for invalid cities
- >Clean and modern GenZ UI
+ * Search weather by city name
+ * Real-time temperature display
+ * Weather condition with icons
+ * Humidity and  Wind speed
+ * Loading state handling
+ * Error handling for invalid cities
+ * Clean and modern GenZ UI
 
 # Tech Stack
- >React (Vite)
- >JavaScript (ES6+)
- >CSS (Glassmorphism + modern UI)
- >OpenWeather API
+ * React (Vite)
+ * JavaScript (ES6+)
+ * CSS (Glassmorphism + modern UI)
+ * OpenWeather API
 
 # How It Works
  * Enter a city name in the search bar
