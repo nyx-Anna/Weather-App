@@ -23,7 +23,7 @@ A modern and responsive Weather Application built using React and OpenWeather AP
  * Displays temperature, condition, humidity, and wind speed
 
 # Live Demo
- https://github.com/nyx-Anna/Weather-App-React.git
+ https://nyx-anna.github.io/Weather-App/
 
 # Learnings
  * React state management using `useState`
